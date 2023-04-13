@@ -2,6 +2,8 @@ Welcome to the E34M1 repository! E34M1 adapts the [EVA 3](https://main.eva-3d.pa
 
 This repository stores the core files for E34M1 and a number of mods. Note that many mods are published on Printables or elsewhere. A full list is available in the **[E34M1 Documentation](https://jon-harper.github.io/E34M1/)**.
 
+## CAUTION: This is the `testing` branch! Head back to `main` or to the documentation for stable, tested files.
+
 ## Quick Links
 
 - [Tour](https://jon-harper.github.io/E34M1/tour/)
